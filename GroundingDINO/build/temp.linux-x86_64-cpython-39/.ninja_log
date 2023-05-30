@@ -1,0 +1,5 @@
+# ninja log v5
+2	1612	1683302973000000000	/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/build/temp.linux-x86_64-cpython-39/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/groundingdino/models/GroundingDINO/csrc/cuda_version.o	793e746181513f9b
+1	8419	1683302980000000000	/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/build/temp.linux-x86_64-cpython-39/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cpu.o	9cafcf929b83135
+2	23390	1683302995000000000	/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/build/temp.linux-x86_64-cpython-39/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/groundingdino/models/GroundingDINO/csrc/vision.o	f8a09fe1a18bcee6
+1	23438	1683302995000000000	/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/build/temp.linux-x86_64-cpython-39/l/users/zutao.jiang/guian.fang/Grounded-Segment-Anything/GroundingDINO/groundingdino/models/GroundingDINO/csrc/MsDeformAttn/ms_deform_attn_cuda.o	1c63fa04a9bc30cf
